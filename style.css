@@ -1,1 +1,24 @@
+body {
+  background-color: #FFF0F5; 
+  background-image: url("https://www.transparenttextures.com/patterns/blizzard.png");
+  font-family: arial, helvetica, sans-serif;
+  margin: 10% 20%;
+}
 
+.Experience {
+  text-align: center;
+  text-transfrom: uppercase;
+  border-top: 1px solid;
+  background-color: rgba(0,0,0, 0.1)
+}
+
+.info {
+  font-size: 15px;
+  line-height: 1%;
+  margin-top: -5px;
+}
+
+.aboutme {
+  border: 1px solid #333333;
+  padding: 10px;
+  }
