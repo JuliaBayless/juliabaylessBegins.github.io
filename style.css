@@ -1,14 +1,13 @@
 body {
-  background-color: #fffaf0; 
   background-image: url("https://www.transparenttextures.com/patterns/blizzard.png");
   font-family: arial, helvetica, sans-serif;
   margin: 10% 20%;
-  color: #2F4F4F;
 }
 
 .Experience {
   text-align: center;
   text-transfrom: uppercase;
+  color: #000066;
   margin-top: 50px;
   border-bottom: 1px solid;
   background-color: rgba(0,0,0, 0.05)
@@ -22,9 +21,14 @@ body {
   margin-top: -15px;
   border: 1px solid;
   padding: 10px;
-  border-top: 2px solid
+  border-top: 2px solid #000066;
 }
 
 .head {
   border-bottom: 1px solid;
+}
+
+.name {
+  color: #000066;
+  font-size: 20px;
 }
